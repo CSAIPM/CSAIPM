@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Desalew Gashaye
 
-<!--
-**CSAIPM/CSAIPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Machine Learning Enthusiast | Robotics | Space Technology
 
-Here are some ideas to get you started:
+I am a passionate computer science student interested in building intelligent systems and solving real-world problems using Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Interests
+
+- 🤖 Machine Learning
+-  🧠 Artificial Intelligence
+- 🔐 Cybersecurity
+- ⚙️ Embedded Systems
+
+
+---
+
+## 🧪 Current Focus
+
+- Learning advanced Machine Learning
+- Building AI projects
+- Studying Robotics and Embedded Systems
+
+---
+
+## 🛠️ Technologies & Tools
+
+- Python
+- C++
+- Git & GitHub
+- Scikit-learn
+- Pandas
+- NumPy
+
+---
+
+## 📂 Featured Projects
+
+- 📧 Email Spam Detector (Machine Learning)
+- 🎬 Movie Recommender System
+- 🤖 AI & Robotics Experiments
+
+---
+
+## 🌍 Goal
+
+My goal is to become an AI researcher and engineer working on intelligent systems and robotics.
