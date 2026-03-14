@@ -32,6 +32,7 @@ I am a passionate computer science student interested in building intelligent sy
 - Scikit-learn
 - Pandas
 - NumPy
+- PyTorch
 
 ---
 
