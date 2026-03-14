@@ -1,6 +1,6 @@
 # Hi 👋, I'm Desalew Gashaye
 
-### AI & Machine Learning Enthusiast | Robotics | Space Technology
+### AI & Machine Learning Enthusiast | Robotics 
 
 I am a passionate computer science student interested in building intelligent systems and solving real-world problems using Artificial Intelligence.
 
